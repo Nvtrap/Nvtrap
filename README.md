@@ -4,6 +4,3 @@
 - 👯 I’m looking to collaborate on projects related to business process automation, AI bots, or low-code tools (n8n etc.)
 - 🤔 I’m looking for help with best practices in prompt engineering for real-world business tasks and scaling no-code automations/
 - 💬 Ask me about how to automate boring tasks with bots, connect AI to internal systems, or start with prompt engineering as a student.
-
-**Nvtrap/Nvtrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
